@@ -5,7 +5,6 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)](https://www.microsoft.com/windows)
 [![Framework](https://img.shields.io/badge/.NET-Windows%20Forms-512BD4.svg)](https://dotnet.microsoft.com/)
 [![API](https://img.shields.io/badge/API-WeatherAPI-00C851.svg)](https://www.weatherapi.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
