@@ -190,14 +190,6 @@ http://api.weatherapi.com/v1/forecast.json
 
 ---
 
-## 📧 Support
-
-If you encounter any issues or have questions:
-- Open an [Issue](https://github.com/yourusername/WeatherApp/issues)
-- Check the [Documentation](https://github.com/yourusername/WeatherApp/wiki)
-
----
-
 ## Preview
     ┌────────────────────────────────────────────┐
     │                 WEATHER                    │
