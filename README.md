@@ -186,7 +186,7 @@ http://api.weatherapi.com/v1/forecast.json
 
 - [WeatherAPI](https://www.weatherapi.com/) - Reliable weather data provider
 - [Newtonsoft.Json](https://www.newtonsoft.com/json) - JSON framework
-- Weather icons inspired by modern design principles
+- [Meteocons](https://bas.dev/work/meteocons) - Weather Icons
 
 ---
 
