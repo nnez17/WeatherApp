@@ -14,7 +14,7 @@ namespace WeatherApp
     public partial class Form1 : Form
     {
         // Konstanta untuk menyimpan API Key dari WeatherAPI
-        private const string API_KEY = "7a975eb10f614bc2a8b43355252810";
+        private const string API_KEY = "xxxxxxxxxxxxxxxxxxxxxx";
         // URL API untuk mendapatkan data forecast (ramalan cuaca)
         private const string FORECAST_API_URL = "http://api.weatherapi.com/v1/forecast.json";
         // HttpClient untuk melakukan request HTTP ke API
