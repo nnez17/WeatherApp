@@ -62,10 +62,7 @@ Real-time air pollution monitoring with **6-tier classification system**:
 ## 🖼️ Screenshots
 
 ### Main Interface
-> *Clean, intuitive design with all weather data at a glance*
-
-### Dynamic Icons
-> *Weather icons automatically adapt to conditions and time of day*
+<a href="https://ibb.co.com/n8qFdk14"><img src="https://i.ibb.co.com/dJsRCKpX/ss.webp" alt="ss" border="0" /></a>
 
 ---
 
